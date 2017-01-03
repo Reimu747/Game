@@ -1,0 +1,220 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,color_png,Dcolor_jpg,Fcolor_jpg,Gcolor_jpg,End_jpg,Swb_jpg,Awb_jpg,Zwb_jpg,menu_jpg,preloading_gif,Stars_jpg,Universe_jpg,people_jpg,buguize_2_png,fangkuai_png,sanjiao_png,zhengyuan_png,white_png,zhangai_jpg,Black_png,White_png,Skill_1_png,Skill_3_png,Skill_5_png,Skill_2_png,Skill_4_png,0_png,npc_1_png,close_png,npc_2_png,notice_png,question_png,block_png,enemy_1_png,block2_png,right_png,down_png,left_png,up_png,local_png,star_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "color_png",
+			"type": "image",
+			"url": "assets/color.png"
+		},
+		{
+			"name": "Dcolor_jpg",
+			"type": "image",
+			"url": "assets/Dcolor.jpg"
+		},
+		{
+			"name": "Fcolor_jpg",
+			"type": "image",
+			"url": "assets/Fcolor.jpg"
+		},
+		{
+			"name": "Gcolor_jpg",
+			"type": "image",
+			"url": "assets/Gcolor.jpg"
+		},
+		{
+			"name": "End_jpg",
+			"type": "image",
+			"url": "assets/End.jpg"
+		},
+		{
+			"name": "Swb_jpg",
+			"type": "image",
+			"url": "assets/Swb.jpg"
+		},
+		{
+			"name": "Awb_jpg",
+			"type": "image",
+			"url": "assets/Awb.jpg"
+		},
+		{
+			"name": "Zwb_jpg",
+			"type": "image",
+			"url": "assets/Zwb.jpg"
+		},
+		{
+			"name": "menu_jpg",
+			"type": "image",
+			"url": "assets/menu.jpg"
+		},
+		{
+			"name": "preloading_gif",
+			"type": "image",
+			"url": "assets/preloading.gif"
+		},
+		{
+			"name": "Stars_jpg",
+			"type": "image",
+			"url": "assets/Stars.jpg"
+		},
+		{
+			"name": "Universe_jpg",
+			"type": "image",
+			"url": "assets/Universe.jpg"
+		},
+		{
+			"name": "people_jpg",
+			"type": "image",
+			"url": "assets/people.jpg"
+		},
+		{
+			"name": "buguize_2_png",
+			"type": "image",
+			"url": "assets/buguize_2.png"
+		},
+		{
+			"name": "fangkuai_png",
+			"type": "image",
+			"url": "assets/fangkuai.png"
+		},
+		{
+			"name": "sanjiao_png",
+			"type": "image",
+			"url": "assets/sanjiao.png"
+		},
+		{
+			"name": "zhengyuan_png",
+			"type": "image",
+			"url": "assets/zhengyuan.png"
+		},
+		{
+			"name": "white_png",
+			"type": "image",
+			"url": "assets/white.png"
+		},
+		{
+			"name": "zhangai_jpg",
+			"type": "image",
+			"url": "assets/zhangai.jpg"
+		},
+		{
+			"name": "Black_png",
+			"type": "image",
+			"url": "assets/Black.png"
+		},
+		{
+			"name": "White_png",
+			"type": "image",
+			"url": "assets/White.png"
+		},
+		{
+			"name": "Skill_1_png",
+			"type": "image",
+			"url": "assets/Skill_1.png"
+		},
+		{
+			"name": "Skill_3_png",
+			"type": "image",
+			"url": "assets/Skill_3.png"
+		},
+		{
+			"name": "Skill_5_png",
+			"type": "image",
+			"url": "assets/Skill_5.png"
+		},
+		{
+			"name": "Skill_2_png",
+			"type": "image",
+			"url": "assets/Skill_2.png"
+		},
+		{
+			"name": "Skill_4_png",
+			"type": "image",
+			"url": "assets/Skill_4.png"
+		},
+		{
+			"name": "0_png",
+			"type": "image",
+			"url": "assets/0.png"
+		},
+		{
+			"name": "npc_1_png",
+			"type": "image",
+			"url": "assets/npc_1.png"
+		},
+		{
+			"name": "close_png",
+			"type": "image",
+			"url": "assets/close.png"
+		},
+		{
+			"name": "npc_2_png",
+			"type": "image",
+			"url": "assets/npc_2.png"
+		},
+		{
+			"name": "notice_png",
+			"type": "image",
+			"url": "assets/notice.png"
+		},
+		{
+			"name": "question_png",
+			"type": "image",
+			"url": "assets/question.png"
+		},
+		{
+			"name": "block_png",
+			"type": "image",
+			"url": "assets/block.png"
+		},
+		{
+			"name": "enemy_1_png",
+			"type": "image",
+			"url": "assets/enemy_1.png"
+		},
+		{
+			"name": "block2_png",
+			"type": "image",
+			"url": "assets/block2.png"
+		},
+		{
+			"name": "right_png",
+			"type": "image",
+			"url": "assets/right.png"
+		},
+		{
+			"name": "down_png",
+			"type": "image",
+			"url": "assets/down.png"
+		},
+		{
+			"name": "left_png",
+			"type": "image",
+			"url": "assets/left.png"
+		},
+		{
+			"name": "up_png",
+			"type": "image",
+			"url": "assets/up.png"
+		},
+		{
+			"name": "local_png",
+			"type": "image",
+			"url": "assets/local.png"
+		},
+		{
+			"name": "star_png",
+			"type": "image",
+			"url": "assets/star.png"
+		}
+	]
+}
